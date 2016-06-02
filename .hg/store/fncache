@@ -1,0 +1,44 @@
+data/NegativeScreen/Api.cs.i
+data/NegativeScreen/NativeStructures.cs.i
+data/NegativeScreen/Program.cs.i
+data/CHANGELOG.txt.i
+data/NegativeScreen/OverlayManager.cs.i
+data/README.md.i
+data/NegativeScreen/Icon.ico.i
+data/NegativeScreen/Properties/AssemblyInfo.cs.i
+data/NegativeScreen/app.config.i
+data/NegativeScreen/OverlayManager.Designer.cs.i
+data/TODO.txt.i
+data/ClearType/1 cleartype on.png.i
+data/Chocolatey/negativescreen.nuspec.i
+data/ClearType/2 cleartype on.png.d
+data/ClearType/2 cleartype on.png.i
+data/NegativeScreen/NativeMethods.cs.i
+data/NegativeScreen/BuiltinMatrices.cs.i
+data/ClearType/1 cleartype on.png.d
+data/NegativeScreen/Icon.psd.i
+data/NegativeScreen/AlreadyRegisteredHotKeyException.cs.i
+data/ClearType/3 rgb.png.i
+data/ClearType/4 bgr.png.i
+data/NegativeScreen/Configuration.cs.i
+data/ClearType/4 bgr.png.d
+data/NegativeScreen/NegativeScreen.csproj.i
+data/ClearType/3 rgb.png.d
+data/NegativeScreen/NegativeOverlay.cs.i
+data/.hgignore.i
+data/Icon.psd.i
+data/NegativeScreen/OverlayManager.resx.i
+data/ClearType/1 cleartype off.png.d
+data/ClearType/1 cleartype off.png.i
+data/NegativeScreen/ConfigurationParser.cs.i
+data/NegativeScreen/Negate.cs.i
+data/NegativeScreen.sln.i
+data/ClearType/2 cleartype off.png.i
+data/NegativeScreen.exe.i
+data/README.txt.i
+data/NegativeScreen/Utility.cs.i
+data/ClearType/2 cleartype off.png.d
+data/.hgtags.i
+data/License.txt.i
+data/NegativeScreenX86.exe.i
+data/Chocolatey/tools/chocolateyInstall.ps1.i
